@@ -1,4 +1,3 @@
-```text
 # Hey, I'm loopmetamethod 👋
 
 ```cpp
